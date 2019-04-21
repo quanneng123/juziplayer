@@ -26,7 +26,7 @@
 │   ├── waps_app_update.md
 │   ├── xiaomi_app_update.md
 │   └── yingyongbao_app_update.md
-└── wgt         //热更新包最新下载信息各渠道加密信息。NOTICE: 如何生成请参考hot_aes_detool工具包README文档
+└── wgt         //热更新包最新下载信息各渠道加密信息。NOTICE: 如何生成请参考aes_detool工具包README文档
     ├── baidu_hot_update.md
     ├── dangle_hot_update.md
     ├── gfan_hot_update.md
